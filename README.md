@@ -3,7 +3,7 @@ The Spoon Stabilizer Support is an adapted utensil for people who have difficult
 
 This device may help people with hand tremors or fine motor challenges due to essential tremors, Parkinson's disease, cerebral palsy, multiple sclerosis, muscular dystrophy, arthritis, stroke, Huntington's diesase, or spinal cord injury.
 
-The design consists of metal cutlery that is cut to lenght and mounted into a 3D printable handle with some off-the-shelf hardware.
+The design consists of metal cutlery that is cut to length and mounted into a 3D printable handle with some off-the-shelf hardware.
 
 The design was created by [Ian Faulkner](https://www.printables.com/social/380579-ian-faulkner/about). Supporting documentation was created by [Neil Squire Society](https://www.neilsquire.ca/) / [Makers Making Change](https://www.makersmakingchange.com/).
 
