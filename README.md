@@ -52,7 +52,7 @@ Reference the [Assembly Guide](/Documentation/Spoon_Stabilizer_Support_Assembly_
 |----------------------|---------|------|
 | Design Rationale     | 1.0     | [Spoon_Stabilizer_Support_Design_Rationale](/Documentation/Spoon_Stabilizer_Support_Design_Rationale.pdf)     |
 | Maker Checklist      | 1.0     | [Spoon_Stabilizer_Support_Maker_Checklist](/Documentation/Spoon_Stabilizer_Support_Maker_Checklist.pdf)     |
-| Bill of Materials    | 1.0     | [Spoon_Stabilizer_Support_Bill_of_Materials](/Documentation/Spoon_Stabilizer_Support_BOM.xlsx)     |
+| Bill of Materials    | 1.0     | [Spoon_Stabilizer_Support_Bill_of_Materials](/Documentation/Spoon_Stabilizer_Support_BOM.csv)     |
 | 3D Printing Guide    | 1.0     | [Spoon_Stabilizer_Support_3D_Printing_Guide](/Documentation/Spoon_Stabilizer_Support_3D_Printing_Guide.pdf)     |
 | Assembly Guide       | 1.0     | [Spoon_Stabilizer_Support_Assembly_Guide](/Documentation/Spoon_Stabilizer_Support_Assembly_Guide.pdf)     |
 | User Guide           | 1.0     | [Spoon_Stabilizer_Support_User_Guide](/Documentation/Spoon_Stabilizer_Support_User_Guide.pdf)    |
